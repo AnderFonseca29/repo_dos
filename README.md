@@ -1,5 +1,6 @@
 # proyecto de uso de herramienta git contribuyentes
 
+error ander
 error marlon
 ---
 
