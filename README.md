@@ -1,4 +1,4 @@
-# proyecto de uso de herramienta git contribuyentes
+ # proyecto de uso de herramienta git contribuyentes
 
 breve descripcion 
 
@@ -42,4 +42,10 @@ paso para instalar el proyecto localmente
 
 ``` bash
 git clone https://github.com/AnderFonseca29/repo_dos
-o
+cd proyecto
+cd ..
+```
+---
+## Video tutorial 
+[![click para ver video](asset/29072.png)](https://youtu.be/WX9-_jbTWdM?list=RDWX9-_jbTWdM)
+ hola
