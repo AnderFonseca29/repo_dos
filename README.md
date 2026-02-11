@@ -1,7 +1,6 @@
 # proyecto de uso de herramienta git contribuyentes
 
-breve descripcion 
-
+error marlon
 ---
 
 
