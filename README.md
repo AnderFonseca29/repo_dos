@@ -53,5 +53,5 @@ cd ..
 
 ---
 ## IMAGEN VIDEO TUTORIAL DE CAMBIO DE JORNADA 
- [![click para ver video](https://tuyoisaza.com/wp-content/uploads/2017/02/Sena-colombia-logo-vector.png)](https://www.youtube.com/watch?v=aheWgjNyhMo)
+ [![click para ver video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcY7GPBY4FV2w0PBd01geacFihrIjVnrvrA&s)](https://www.youtube.com/watch?v=aheWgjNyhMo)
 
