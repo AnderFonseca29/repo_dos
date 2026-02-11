@@ -49,3 +49,9 @@ cd ..
 ## Video tutorial 
 [![click para ver video](asset/29072.png)](https://youtu.be/WX9-_jbTWdM?list=RDWX9-_jbTWdM)
  [![click para ver video](https://www.vhv.rs/dpng/d/46-460872_dibujos-sin-fondo-png-transparent-png.png)](https://youtu.be/Y7mn33DqWg4?list=RDWX9-_jbTWdM)
+
+
+---
+## IMAGEN VIDEO TUTORIAL DE CAMBIO DE JORNADA 
+ [![click para ver video](https://tuyoisaza.com/wp-content/uploads/2017/02/Sena-colombia-logo-vector.png)](https://www.youtube.com/watch?v=aheWgjNyhMo)
+
